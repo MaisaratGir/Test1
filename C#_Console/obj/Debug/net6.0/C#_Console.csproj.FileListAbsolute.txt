@@ -1,0 +1,15 @@
+C:\Users\User\C#_002\C#_Console\bin\Debug\net6.0\C#_Console.exe
+C:\Users\User\C#_002\C#_Console\bin\Debug\net6.0\C#_Console.deps.json
+C:\Users\User\C#_002\C#_Console\bin\Debug\net6.0\C#_Console.runtimeconfig.json
+C:\Users\User\C#_002\C#_Console\bin\Debug\net6.0\C#_Console.dll
+C:\Users\User\C#_002\C#_Console\bin\Debug\net6.0\C#_Console.pdb
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.csproj.AssemblyReference.cache
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.AssemblyInfoInputs.cache
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.AssemblyInfo.cs
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.csproj.CoreCompileInputs.cache
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.dll
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\refint\C#_Console.dll
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.pdb
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\C#_Console.genruntimeconfig.cache
+C:\Users\User\C#_002\C#_Console\obj\Debug\net6.0\ref\C#_Console.dll
